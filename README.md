@@ -1,3 +1,3 @@
 # Criminals web app
 
-Written in AngularJS
+Written in AngularJS consume API
